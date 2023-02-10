@@ -1,0 +1,17 @@
+.Coin_Flip{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.btn{
+    margin-right: 60px;
+    background-color: black;
+    color: white;
+
+    padding: 20px;
+    font-size: 30px;
+}
+
+.img{
+    text-align: center;
+}
